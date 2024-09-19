@@ -9,6 +9,6 @@
 <!---
 java script Site Demo
 --->
-# DynamicInterval-on-images
+# javaScript DynamicInterval website  
 [DynamicInterval-on-images](https://jamshaidkhan065.github.io/DynamicInterval-on-images/index.html)
 
